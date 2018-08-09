@@ -21,8 +21,7 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-
- <!-- https://mvnrepository.com/artifact/org.sonarsource.scanner.maven/sonar-maven-plugin -->
+<!-- https://mvnrepository.com/artifact/org.sonarsource.scanner.maven/sonar-maven-plugin -->
 <dependency>
 <groupId>org.sonarsource.scanner.maven</groupId>
 <artifactId>sonar-maven-plugin</artifactId>
@@ -45,7 +44,4 @@ http://ec2-18-217-153-42.us-east-2.compute.amazonaws.com:9000
 </profile>
 </profiles>
 
-
-
-  </dependencies>
 </project>
